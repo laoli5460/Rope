@@ -1,2 +1,2 @@
-export DISPLAY=:0
 from .clip import *
+export DISPLAY=:0
